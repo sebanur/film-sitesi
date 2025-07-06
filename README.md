@@ -7,4 +7,5 @@ In this project, a movie viewing platform with a modern and user-friendly interf
 HTML and CSS
 
 <h2> Preview </h2>
+
 ![](ekran.gif)
